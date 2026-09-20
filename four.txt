@@ -1,8 +1,2 @@
-<<<<<<< HEAD
-
 four
-hello
-=======
-four
-4
->>>>>>> main
+444
